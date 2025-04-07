@@ -59,7 +59,7 @@ pip install numpy pandas
 
 ## 📊 访客统计
 
-项目在GitHub平台同步开源：https://github.com/duyu09/Pinyin2Hanzi-Transformer
+项目在Hugging Face平台同步开源：https://huggingface.co/Duyu/Pinyin2Hanzi-Transformer
 
 <div><b>Number of Total Visits (All of Duyu09's GitHub Projects): </b><br><img src="https://profile-counter.glitch.me/duyu09/count.svg" /></div> 
 
