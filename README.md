@@ -35,6 +35,8 @@ pip install numpy pandas
 
 3. 下载代码（`run.py`）及预训练权重（`pinyin2hanzi_transformer.pth`）
 
+- 下载地址：`Hugging Face`平台: https://huggingface.co/Duyu/Pinyin2Hanzi-Transformer 或`GitHub`平台: https://github.com/duyu09/Pinyin2Hanzi-Transformer/releases/tag/Pinyin2Hanzi-Transformer-v1.0
+
 **（二）模型推理：** 
 1. 解除主函数中`use_main()`的注释，增加`train_main()`的注释。
 2. 修改`use_main()`中的模型文件路径及汉语拼音序列。
