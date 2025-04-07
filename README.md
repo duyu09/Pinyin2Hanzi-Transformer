@@ -1,12 +1,3 @@
----
-license: apache-2.0
-datasets:
-- Duyu/Pinyin-Hanzi
-language:
-- zh
-pipeline_tag: text2text-generation
----
-
 # Pinyin2Hanzi_Transformer
 
 基于`Transformer`的预训练汉语拼音序列转汉字序列模型，训练数据全部采用`Duyu/Pinyin-Hanzi`（[单击此处](https://huggingface.co/datasets/Duyu/Pinyin-Hanzi) 跳转至数据集页面）
